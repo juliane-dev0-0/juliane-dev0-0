@@ -17,3 +17,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=juliane-dev0-0&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliane-dev0-0/juliane-dev0-0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliane-dev0-0/juliane-dev0-0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juliane-dev0-0/juliane-dev0-0/output/github-contribution-grid-snake.svg">
+</picture>
