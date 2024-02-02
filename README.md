@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me: -->
 🚀 Estudante de Engenharia de Software na UniAmérica, em Foz do Iguaçu, PR.<br>💻 Desenvolvedor Full-stack em formação.<br>📚 3° Período - Uniamérica.<br>🛠️ Experiência com Javascript, HTML, CSS, C, Python, Git & Github.<br>🔄 Conhecimento em Metodologias Ágeis e Scrum.
 
 
